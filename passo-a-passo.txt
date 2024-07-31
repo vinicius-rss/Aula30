@@ -1,0 +1,7 @@
+√ npm create vite@latest
+√ Project name: aula_react01
+√ Select a framework: React
+√ Select a variant: JavaScript
+√ cd aula_react01
+√ npm i
+√ npm run dev
